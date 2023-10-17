@@ -15,7 +15,6 @@ body {
     text-align: left;
 }
 
-
 label {
     display: block;
     margin-bottom: 10px;
@@ -28,10 +27,6 @@ input, select, textarea {
     border: 1px solid #ccc;
     border-radius: 10px;
     background-color: #fafafa;
-}
-
-.buttons {
-    text-align: right;
 }
 
 .buttons input {
